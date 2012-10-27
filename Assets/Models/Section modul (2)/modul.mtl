@@ -1,0 +1,123 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__22 (2) to come 
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__22 done 
+#
+# Multi/Sub Material__11 (2) to come 
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__11 done 
+#
+# Multi/Sub Material__48 (2) to come 
+#
+newmtl 8
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 7
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  11.4
+illum 2
+#
+# Multi/Sub Material__48 done 
+#
+# Multi/Sub Material__33 (5) to come 
+#
+newmtl 2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 3
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 4
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 5
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 6
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+# Multi/Sub Material__33 done 
+#
+newmtl 9
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  11.4
+illum 2
+#
+newmtl 7
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  11.4
+illum 2
+#
+# EOF
