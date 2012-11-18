@@ -1,0 +1,12 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl default02
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.9
+illum 2
+map_Kd dys_prop_warby_laser_fence_metal_01_detail.tga
+#
+# EOF

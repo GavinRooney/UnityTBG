@@ -1,0 +1,1520 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__35 (9) to come 
+#
+newmtl Missile_Door_Lower01
+Ka  0.2 0.2 0.3
+Kd  0.2 0.2 0.3
+Ks  0.2 0.2 0.3
+d  1.0
+Ns  4.0
+illum 2
+map_Ks generic_spec2.png
+#
+newmtl Missile_Door_Upper01
+Ka  0.2 0.2 0.3
+Kd  0.2 0.2 0.3
+Ks  0.2 0.2 0.3
+d  1.0
+Ns  4.0
+illum 2
+map_Ks generic_spec2.png
+#
+newmtl Missile_Pod_Tube_Inners01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl Missile_Pod01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Missile_warheads01
+Ka  0.7 0.2 0.0
+Kd  0.7 0.2 0.0
+Ks  0.6 0.1 0.0
+d  1.0
+Ns  3.4
+illum 2
+#
+newmtl Missile_pod_armor_top_X01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  2.3
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Missile_pod_armor_rim01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Missile_pod_armor_bottom_X01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  2.3
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Missile_pod_armor_middle_X01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  2.3
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+# Multi/Sub Material__35 done 
+#
+# Multi/Sub Material__46 (9) to come 
+#
+newmtl Missile_Door_Lower01
+Ka  0.2 0.2 0.3
+Kd  0.2 0.2 0.3
+Ks  0.2 0.2 0.3
+d  1.0
+Ns  4.0
+illum 2
+map_Ks generic_spec2.png
+#
+newmtl Missile_Door_Upper01
+Ka  0.2 0.2 0.3
+Kd  0.2 0.2 0.3
+Ks  0.2 0.2 0.3
+d  1.0
+Ns  4.0
+illum 2
+map_Ks generic_spec2.png
+#
+newmtl Missile_Pod_Tube_Inners01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl Missile_Pod01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Missile_warheads01
+Ka  0.7 0.2 0.0
+Kd  0.7 0.2 0.0
+Ks  0.6 0.1 0.0
+d  1.0
+Ns  3.4
+illum 2
+#
+newmtl Missile_pod_armor_top_X01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  2.3
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Missile_pod_armor_rim01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Missile_pod_armor_bottom_X01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  2.3
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Missile_pod_armor_middle_X01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  2.3
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+# Multi/Sub Material__46 done 
+#
+# Multi/Sub Material__57 (2) to come 
+#
+newmtl GunPodMidGrey01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodsGreen01
+Ka  0.3 0.4 0.3
+Kd  0.3 0.4 0.3
+Ks  0.2 0.3 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+# Multi/Sub Material__57 done 
+#
+# Multi/Sub Material__68 (4) to come 
+#
+newmtl GunPodLightGrey01
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodsGreen01
+Ka  0.3 0.4 0.3
+Kd  0.3 0.4 0.3
+Ks  0.2 0.3 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodMidGrey01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Gun_Pod_Barrels01
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__68 done 
+#
+# Multi/Sub Material__25 (2) to come 
+#
+newmtl GunPodMidGrey01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodsGreen01
+Ka  0.3 0.4 0.3
+Kd  0.3 0.4 0.3
+Ks  0.2 0.3 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+# Multi/Sub Material__25 done 
+#
+# Multi/Sub Material__26 (4) to come 
+#
+newmtl GunPodLightGrey01
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodsGreen01
+Ka  0.3 0.4 0.3
+Kd  0.3 0.4 0.3
+Ks  0.2 0.3 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodMidGrey01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Gun_Pod_Barrels01
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__26 done 
+#
+# Multi/Sub Material__27 (4) to come 
+#
+newmtl GunPodLightGrey01
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodsGreen01
+Ka  0.3 0.4 0.3
+Kd  0.3 0.4 0.3
+Ks  0.2 0.3 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodMidGrey01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Gun_Pod_Barrels01
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__27 done 
+#
+# Multi/Sub Material__28 (2) to come 
+#
+newmtl GunPodMidGrey01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodsGreen01
+Ka  0.3 0.4 0.3
+Kd  0.3 0.4 0.3
+Ks  0.2 0.3 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+# Multi/Sub Material__28 done 
+#
+# Multi/Sub Material__29 (4) to come 
+#
+newmtl GunPodLightGrey01
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodsGreen01
+Ka  0.3 0.4 0.3
+Kd  0.3 0.4 0.3
+Ks  0.2 0.3 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl GunPodMidGrey01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Gun_Pod_Barrels01
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__29 done 
+#
+# Multi/Sub Material__137 (112) to come 
+#
+newmtl Plasma_Gun_body01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Plasma_Gun_Barrel_inners01
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Midsection01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Default01
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Midsection_Blue01
+Ka  0.3 0.3 0.5
+Kd  0.3 0.3 0.5
+Ks  0.2 0.2 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Rear_Thruster_exhaust_bottom_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Top_Beam_Cover_front01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Kd monsoon_hood_color.png
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Top_Beam_Cover_sides01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Top_Beam_Cover_Planar_Z01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Top_Beam_Cover_sides_blue01
+Ka  0.3 0.3 0.5
+Kd  0.3 0.3 0.5
+Ks  0.2 0.2 0.4
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Rear_Thruster_Inner_bottom_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Rear_Thruster_Outer_bottom_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Rear_Thruster_Inner_bottom_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Rear_Thruster_exhaust_bottom_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Rear_Thruster_Outer_bottom_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Rear_Thruster_Inner_top_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Rear_Thruster_exhaust_top_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Rear_Thruster_Outer_top_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Rear_Thruster_Inner_top_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Rear_Thruster_exhaust_top_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Rear_Thruster_Outer_top_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_Inner_bottom_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_exhaust_bottom_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Front_thruster_outer_bottom_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_Inner_top_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_exhaust_top_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Front_thruster_outer_top_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_Inner_bottom_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_exhaust_bottom_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Front_thruster_outer_bottom_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_Inner_top_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Front_thruster_exhaust_top_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd monsoon_thruster_outletcol.png
+map_Ks monsoon_thruster_outlet.png
+bump monsoon_thruster_outletbump.png
+#
+newmtl Front_thruster_outer_top_right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.2
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_spec.png
+bump -o -0.4 0.0 0.0 -s 4.0 1.0 1.0 monsoon_engine_bump.png
+#
+newmtl Vector_Flap_rear_top_right01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Vector_Flap_rear_bottom_left01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Vector_Flap_rear_top_left01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Vector_Flap_rear_bottom_right01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Vector_Flap_front_bottom_left01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Vector_Flap_front_botom_right01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Vector_Flap_front_top_right01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Vector_Flap_front_top_left01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_vector_spec.png
+bump monsoon_vector_bump.png
+#
+newmtl Front_Thruster_assembly_nurnies_Dark01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Front_Thurster_Mounting_Assemblies01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Antenna_Parts_Front01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl Rear_Tube_Nurnies01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Front_Tube_Nurnies01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl nose_Left01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_Left_Blue01
+Ka  0.3 0.3 0.5
+Kd  0.3 0.3 0.5
+Ks  0.2 0.2 0.4
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_Left_Inner01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl nose_bottom_left01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_bottom_left_blue01
+Ka  0.3 0.3 0.5
+Kd  0.3 0.3 0.5
+Ks  0.2 0.2 0.4
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_bottom_left_inner01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl nose_bottom_right01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_bottom_right_blue01
+Ka  0.3 0.3 0.5
+Kd  0.3 0.3 0.5
+Ks  0.2 0.2 0.4
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_bottom_right_inner01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl nose_Right01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_right_blue01
+Ka  0.3 0.3 0.5
+Kd  0.3 0.3 0.5
+Ks  0.2 0.2 0.4
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl nose_right_inner01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Tail_Top_round01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 8.1 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 8.1 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl Tail_Top_&_bottom_PlanarY01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Tail_Planar_Y01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Tail_Bottom_round01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 8.1 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 8.1 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl Radiator01
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Light_green01
+Ka  0.0 0.8 0.0
+Kd  0.0 0.8 0.0
+Ks  0.0 0.0 0.0
+d  0.7
+Ns  0.2
+illum 2
+#
+newmtl Light_Red01
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  0.7
+Ns  0.2
+illum 2
+#
+newmtl Hinges01
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl Door_planar_Y01
+Ka  0.7 0.7 0.6
+Kd  0.7 0.7 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Vector_Thruster_surrounds_Planar_X01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Vector_Thruster_surrounds_Planar_Y01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Missile_Supports01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Engine_Pod_rears01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Engine_Pod_planar_Y_left01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_spec.png
+bump monsoon_pod_bump.png
+#
+newmtl Engine_Pod_planar_X03
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Engine_Pod_planar_X01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Engine_Pod_planar_X04
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Engine_Pod_pannelling01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Engine_Pod_fronts01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Engine_Pod_planar_Y_Right01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_spec.png
+bump monsoon_pod_bump.png
+#
+newmtl Engine_Pod_planar_X06
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Engine_Pod_planar_X02
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Engine_Pod_planar_X05
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  0.5
+illum 2
+map_Ks monsoon_pod_specside.png
+bump monsoon_pod_bumpside.png
+#
+newmtl Gun_Pod_Bases01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Dark_Nurnies_front01
+Ka  0.2 0.3 0.4
+Kd  0.2 0.3 0.4
+Ks  0.2 0.2 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Rear_Thruster_assembly_nurnies_Dark01
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Top_Sensor_Pod01
+Ka  0.4 0.4 0.5
+Kd  0.4 0.4 0.5
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Sensor_Cover01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl Sensor_Cover02
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Sensor_Cover03
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl rear_nurnies_Dark01
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl NoseSensorBlock3,01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.3 0.3 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl Logo_Illuminator01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl front_nurnies_Dark01
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl top_light01
+Ka  0.1 0.9 0.8
+Kd  0.1 0.9 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Hatches01
+Ka  0.2 0.3 0.3
+Kd  0.2 0.3 0.3
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl front_guns_small01
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Rear_Vector_Flap_Hinges01
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Antenna_Parts_Front_dark01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl Engine_Hull_Supports01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec.png
+bump generic_bump.png
+#
+newmtl tiling_front_most_top01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl tiling_front_most_top_inners01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+#
+newmtl Thrust_Vector_Flaps01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Vector_Thruster_surrounds_Planar_Z01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Rear_Thruster_Mounting_Assemblies01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Bottom_Targeting_Pod01
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Beam_Cannon_Mount01
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.4 0.4 0.4
+d  1.0
+Ns  3.0
+illum 2
+map_Ks generic_spec2.png
+bump generic_bump.png
+#
+newmtl Hull_Main_Center_Block01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks monsoon_armor_spec.png
+bump monsoon_armor_bump.png
+#
+newmtl Front_Vector_Flap_Hinges01
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl Bottom_Nose_Armor_Middle01
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl Bottom_Nose_Armor_Middle02
+Ka  0.8 0.8 0.7
+Kd  0.8 0.8 0.7
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl Bottom_Nose_Armor_Middle_Blue01
+Ka  0.3 0.3 0.5
+Kd  0.3 0.3 0.5
+Ks  0.2 0.2 0.4
+d  1.0
+Ns  3.4
+illum 2
+map_Ks -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_spec.png
+bump -o -0.4 0.0 0.0 -s 6.3 1.0 1.0 monsoon_armor_bump.png
+#
+newmtl Beam_Weapon_Dark01
+Ka  0.2 0.3 0.3
+Kd  0.2 0.3 0.3
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  3.0
+illum 2
+map_Ks -o -0.3 0.0 0.0 -s 3.0 1.0 1.0 generic_spec2.png
+bump -o -0.3 0.0 0.0 -s 3.0 1.0 1.0 generic_bump.png
+#
+newmtl Beam_Weapon_Light01
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  3.0
+illum 2
+map_Ks -o -0.3 0.0 0.0 -s 3.0 1.0 1.0 generic_spec2.png
+bump -o -0.3 0.0 0.0 -s 3.0 1.0 1.0 generic_bump.png
+#
+# Multi/Sub Material__137 done 
+#
+# EOF

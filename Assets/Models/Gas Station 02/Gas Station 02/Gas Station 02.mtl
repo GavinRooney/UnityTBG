@@ -1,0 +1,1770 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__637 (3) to come 
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Тротуарн_плитка
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd TILE03.JPG
+bump TILE03.JPG
+#
+newmtl Метал_черн_краск
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__637 done 
+#
+# Multi/Sub Material__626 (3) to come 
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Тротуарн_плитка
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd TILE03.JPG
+bump TILE03.JPG
+#
+newmtl Метал_черн_краск
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__626 done 
+#
+# Multi/Sub Material__615 (3) to come 
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Тротуарн_плитка
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd TILE03.JPG
+bump TILE03.JPG
+#
+newmtl Метал_черн_краск
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__615 done 
+#
+# Multi/Sub Material__604 (3) to come 
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Тротуарн_плитка
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd TILE03.JPG
+bump TILE03.JPG
+#
+newmtl Метал_черн_краск
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__604 done 
+#
+# Multi/Sub Material__593 (8) to come 
+#
+newmtl Красн_краска
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Номер_4б
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.3 -0.0 0.0 НОМЕР_4.JPG
+#
+newmtl Номер_4а
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.3 -0.0 0.0 НОМЕР_4.JPG
+#
+newmtl Черн_краска
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Номер_3б
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd НОМЕР_3.JPG
+#
+newmtl Номер_3а
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd НОМЕР_3.JPG
+#
+# Multi/Sub Material__593 done 
+#
+# Multi/Sub Material__582 (4) to come 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Лиц_панель_2б
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЛОГО_01.JPG
+#
+newmtl Лиц_панель_2а
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЛОГО_01.JPG
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+# Multi/Sub Material__582 done 
+#
+# Multi/Sub Material__571 (9) to come 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Красн_краска
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Материал__57
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Номер_2б
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.3 -0.0 0.0 НОМЕР_2.JPG
+#
+newmtl Номер_2а
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.3 -0.0 0.0 НОМЕР_2.JPG
+#
+newmtl Черн_краска
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Номер_1б
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd НОМЕР_1.JPG
+#
+newmtl Номер_1а
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd НОМЕР_1.JPG
+#
+# Multi/Sub Material__571 done 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__560 (2) to come 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Лиц_панель_1а
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd НЕФТСЕР_.JPG
+#
+# Multi/Sub Material__560 done 
+#
+# Multi/Sub Material__549 (3) to come 
+#
+newmtl Черн_краска
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Красн_краска
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__549 done 
+#
+newmtl Тротуарн_плитка
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd TILE03.JPG
+bump TILE03.JPG
+#
+newmtl Default
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.1
+illum 2
+#
+# Multi/Sub Material__538 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__538 done 
+#
+# Multi/Sub Material__527 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__527 done 
+#
+# Multi/Sub Material__516 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__516 done 
+#
+# Multi/Sub Material__505 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__505 done 
+#
+# Multi/Sub Material__494 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__494 done 
+#
+# Multi/Sub Material__483 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__483 done 
+#
+# Multi/Sub Material__472 (12) to come 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Ящик_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+newmtl Ящик_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+# Multi/Sub Material__472 done 
+#
+# Multi/Sub Material__459 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__459 done 
+#
+# Multi/Sub Material__448 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__448 done 
+#
+# Multi/Sub Material__437 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__437 done 
+#
+# Multi/Sub Material__426 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__426 done 
+#
+# Multi/Sub Material__415 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__415 done 
+#
+# Multi/Sub Material__404 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__404 done 
+#
+# Multi/Sub Material__393 (12) to come 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Ящик_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+newmtl Ящик_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+# Multi/Sub Material__393 done 
+#
+# Multi/Sub Material__380 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__380 done 
+#
+# Multi/Sub Material__369 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__369 done 
+#
+# Multi/Sub Material__358 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__358 done 
+#
+# Multi/Sub Material__347 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__347 done 
+#
+# Multi/Sub Material__336 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__336 done 
+#
+# Multi/Sub Material__325 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__325 done 
+#
+# Multi/Sub Material__314 (12) to come 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Ящик_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+newmtl Ящик_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+# Multi/Sub Material__314 done 
+#
+# Multi/Sub Material__301 (12) to come 
+#
+newmtl Белая_краска
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Аллюминий
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Ящик_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+newmtl Ящик_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ЯЩИК.JPG
+#
+newmtl А80ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.2 0.0 -s 7.5 3.0 1.0 А80Ч.JPG
+#
+newmtl А92ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o 0.0 -0.2 0.0 -s 7.5 3.0 1.0 А92Ч.JPG
+#
+newmtl А95ч2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 -0.2 0.0 -s 7.5 3.0 1.0 А95Ч.JPG
+#
+newmtl Табло_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.0 0.1 0.0 -s 3.1 2.4 1.0 ТАБЛО.JPG
+#
+# Multi/Sub Material__301 done 
+#
+# Multi/Sub Material__288 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__288 done 
+#
+# Multi/Sub Material__277 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__277 done 
+#
+# Multi/Sub Material__266 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__266 done 
+#
+# Multi/Sub Material__255 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Белый_ПВХ
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__255 done 
+#
+# Multi/Sub Material__244 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Красн_ПВХ
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__244 done 
+#
+# Multi/Sub Material__233 (3) to come 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl Reflection_Lake
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.0
+illum 2
+#
+newmtl Черный_ПВХ
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__233 done 
+#
+newmtl Флаг_НС
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  0.9
+Ns  2.0
+illum 2
+map_Kd -o 0.2 0.1 0.0 -s 2.0 1.1 1.0 ФЛАГ_НС_.JPG
+#
+newmtl Флаг_РФ
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  0.9
+Ns  2.0
+illum 2
+map_Kd ФЛАГ_РФ.JPG
+#
+# Multi/Sub Material__222 (2) to come 
+#
+newmtl Белая_краска1
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Черн_краска1
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__222 done 
+#
+# Multi/Sub Material__211 (3) to come 
+#
+newmtl Аллюминий1
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Тротуарн_плит1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd TILE03.JPG
+bump TILE03.JPG
+#
+newmtl Метал_черн_кр1
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__211 done 
+#
+newmtl Трава
+Ka  0.1 0.2 0.1
+Kd  0.1 0.2 0.1
+Ks  0.6 0.6 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__200 (3) to come 
+#
+newmtl Белая_краска2
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Черн_краска2
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Красн_краска1
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+# Multi/Sub Material__200 done 
+#
+# Multi/Sub Material__189 (2) to come 
+#
+newmtl Белый_ПВХ1
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Открыто
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ОТКРЫТО.JPG
+#
+# Multi/Sub Material__189 done 
+#
+newmtl Черн_резина
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+# Multi/Sub Material__178 (2) to come 
+#
+newmtl Белый_ПВХ1
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Открыто
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd ОТКРЫТО.JPG
+#
+# Multi/Sub Material__178 done 
+#
+# Multi/Sub Material__167 (10) to come 
+#
+newmtl Белый_ПВХ1
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Право_фр
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Лево_фр
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Метал_черн_кр2
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Материал__236
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Аллюминий2
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+newmtl Стекло
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  0.5
+Ns  5.0
+illum 2
+#
+newmtl Материал__237
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Ворота_1
+Ka  0.8 0.8 0.9
+Kd  0.8 0.8 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+map_Kd КАРТИНКА.JPG
+bump РЕЛЬЕФ_В.JPG
+#
+newmtl Ворота_2
+Ka  0.8 0.8 0.9
+Kd  0.8 0.8 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+map_Kd -o -0.1 -0.0 0.0 КАРТИНКА.JPG
+bump -o -0.1 -0.0 0.0 РЕЛЬЕФ_В.JPG
+#
+# Multi/Sub Material__167 done 
+#
+# Multi/Sub Material__156 (3) to come 
+#
+newmtl Белая_краска2
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Красн_краска1
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.0
+illum 2
+#
+newmtl Аллюминий2
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.8 0.8 0.8
+d  0.9
+Ns  9.0
+illum 2
+#
+# Multi/Sub Material__156 done 
+#
+# EOF

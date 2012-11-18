@@ -48,14 +48,22 @@
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\Models\Furnace\Furnace\dystopia_prop_read_me.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Models\house\all3dmodel.com.txt" />
+     <None Include="Assets\Models\8e79aa3af49d8bcc589dd382efcc0373\archibase.net.txt" />
+     <None Include="Assets\Models\3dm-WaterTower\3dlands_WaterTower-3ds\3dlands read me.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Models\Forging\archibase.net.txt" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
      <None Include="Assets\Models\Spider - Tank\dystopia_prop_read_me.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Models\circularstairs\Readme.txt" />
+     <None Include="Assets\Models\Laser Fence\Laser Fence\dystopia_prop_read_me.txt" />
+     <None Include="Assets\Models\Modern House\archibase.net.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

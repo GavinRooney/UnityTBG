@@ -1,0 +1,577 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl col
+Ka  1.0 0.0 0.8
+Kd  1.0 0.0 0.8
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  0.0
+illum 2
+#
+# Multi/Sub izba_modern (8) to come 
+#
+newmtl selpo_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_1.dds
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+newmtl window_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd window.dds
+#
+newmtl hood_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd hood_1.dds
+#
+newmtl selpo_5
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_3.dds
+#
+newmtl wood
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl wall_stone_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd wall_stone_1.tga
+#
+newmtl wood
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub izba_modern done 
+#
+# Multi/Sub col (8) to come 
+#
+newmtl selpo_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_2.dds
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+newmtl window_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd window.dds
+#
+newmtl hood_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd hood_1.dds
+#
+newmtl selpo_5
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_3.dds
+#
+newmtl wood
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl wall_stone_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd wall_stone_1.tga
+#
+newmtl wood
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub col done 
+#
+# Multi/Sub Material__65 (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl met_pol
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+# Multi/Sub Material__65 done 
+#
+newmtl hydrant
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+# Multi/Sub Material__4268 (3) to come 
+#
+newmtl wood4
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_1.dds
+#
+newmtl met
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+newmtl wood_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub Material__4268 done 
+#
+# Multi/Sub stolb (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl met_pol
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+# Multi/Sub stolb done 
+#
+newmtl met_pol
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+newmtl 07_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__129 (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl met_pol
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+# Multi/Sub Material__129 done 
+#
+newmtl truba_1
+Ka  1.0 0.8 0.0
+Kd  1.0 0.8 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd truba_gaz.dds
+#
+# Multi/Sub Material__4378 (2) to come 
+#
+newmtl wood_gaz
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl stolb_gaz
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+# Multi/Sub Material__4378 done 
+#
+newmtl stolb_gaz
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stolb_1.dds
+#
+# Multi/Sub Material__141 (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl ukazatel_new
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ukazatel_n.dds
+#
+# Multi/Sub Material__141 done 
+#
+# Multi/Sub Material__119 (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl ukazatel_new
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ukazatel_n.dds
+#
+# Multi/Sub Material__119 done 
+#
+# Multi/Sub Material__87 (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl ukazatel_new
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ukazatel_n.dds
+#
+# Multi/Sub Material__87 done 
+#
+# Multi/Sub Material__11 (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl ukazatel_new
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ukazatel_n.dds
+#
+# Multi/Sub Material__11 done 
+#
+# Multi/Sub Material__33 (2) to come 
+#
+newmtl stolb
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl ukazatel_new
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ukazatel_n.dds
+#
+# Multi/Sub Material__33 done 
+#
+# Multi/Sub Material__67 (2) to come 
+#
+newmtl wood_fence_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+newmtl wood_fence_3
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_2.dds
+#
+# Multi/Sub Material__67 done 
+#
+# Multi/Sub Material__34 (2) to come 
+#
+newmtl wood_fence_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_1.dds
+#
+newmtl wood_fence_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub Material__34 done 
+#
+# Multi/Sub Material__56 (2) to come 
+#
+newmtl wood_fence_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_1.dds
+#
+newmtl wood_fence_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub Material__56 done 
+#
+# Multi/Sub Material__45 (2) to come 
+#
+newmtl wood_fence_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_1.dds
+#
+newmtl wood_fence_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub Material__45 done 
+#
+# Multi/Sub Material__99 (2) to come 
+#
+newmtl wood_fence_3
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_2.dds
+#
+newmtl wood_fence_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub Material__99 done 
+#
+# Multi/Sub Material__127 (2) to come 
+#
+newmtl wood_fence_3
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodwall_2.dds
+#
+newmtl wood_fence_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd stoolb_wood.dds
+#
+# Multi/Sub Material__127 done 
+#
+newmtl wood_fence_1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd woodfence_3.dds
+#
+# EOF

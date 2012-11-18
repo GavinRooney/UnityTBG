@@ -1,0 +1,115 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl RAL_5020_Ocean_B
+Ka  0.1 0.2 0.3
+Kd  0.1 0.2 0.3
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Default
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.1
+illum 2
+#
+newmtl RAL_5007_Brillia
+Ka  0.2 0.4 0.5
+Kd  0.2 0.4 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__68 (2) to come 
+#
+newmtl RAL_5020_Ocean_B
+Ka  0.1 0.2 0.3
+Kd  0.1 0.2 0.3
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 19_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__68 done 
+#
+# Multi/Sub Material__35 (2) to come 
+#
+newmtl Plastik
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Plastik1
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+newmtl Plastik
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__57 (2) to come 
+#
+newmtl Plastik1
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Plastik
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__57 done 
+#
+# Multi/Sub Material__46 (2) to come 
+#
+newmtl Plastik
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Plastik1
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__46 done 
+#
+# EOF

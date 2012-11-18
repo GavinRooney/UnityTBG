@@ -1,0 +1,75 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl vray_04_-_Defaul
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl vray_08_-_Defaul
+Ka  0.2 0.4 0.2
+Kd  0.2 0.4 0.2
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl vray_Material__1
+Ka  1.0 1.0 0.8
+Kd  1.0 1.0 0.8
+Ks  0.1 0.1 0.1
+d  0.9
+Ns  10.0
+illum 2
+#
+newmtl vray_08_-_Def1
+Ka  0.5 0.7 0.4
+Kd  0.5 0.7 0.4
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl vray_04_-_Defa1u
+Ka  0.6 0.7 0.7
+Kd  0.6 0.7 0.7
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl vray_04_-_Def1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl vray_04_-_Def2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl vray_04_-_D51ult
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl vray_04_-_D5efa1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# EOF

@@ -1,0 +1,318 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Default
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.1
+illum 2
+#
+newmtl W
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl B
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 04_-_Default
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 07_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.4 0.4 0.4
+d  0.2
+Ns  10.0
+illum 2
+#
+newmtl Gray
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl aa
+Ka  0.1 0.1 0.3
+Kd  0.1 0.1 0.3
+Ks  0.9 0.9 0.9
+d  0.6
+Ns  3.9
+illum 2
+#
+newmtl 19_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WOOD67.JPG
+#
+newmtl 04_-_Default1
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl W1
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 07_-_Default1
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  0.4
+Ns  11.1
+illum 2
+#
+newmtl GRAY
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl aa2
+Ka  0.3 0.3 0.6
+Kd  0.3 0.3 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.9
+illum 2
+#
+newmtl 13_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl aa1
+Ka  0.1 0.1 0.3
+Kd  0.1 0.1 0.3
+Ks  0.9 0.9 0.9
+d  0.4
+Ns  3.9
+illum 2
+#
+newmtl Material__28
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl aa21
+Ka  0.3 0.3 0.6
+Kd  0.3 0.3 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.9
+illum 2
+#
+newmtl W2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl aa24
+Ka  0.7 0.1 0.1
+Kd  0.7 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.9
+illum 2
+#
+newmtl 07_-_Default2
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  0.4
+Ns  11.1
+illum 2
+#
+newmtl aa3
+Ka  0.1 0.1 0.3
+Kd  0.1 0.1 0.3
+Ks  0.9 0.9 0.9
+d  0.4
+Ns  3.9
+illum 2
+#
+newmtl Gray1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl GRAY1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 19_-_Default1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WOOD67.JPG
+#
+newmtl GRAY2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl aa22
+Ka  0.3 0.3 0.6
+Kd  0.3 0.3 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.9
+illum 2
+#
+newmtl 04_-_Default2
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 13_-_Default1
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 07_-_Default3
+Ka  0.1 0.1 0.3
+Kd  0.1 0.1 0.3
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  11.1
+illum 2
+#
+newmtl aa4
+Ka  0.1 0.1 0.3
+Kd  0.1 0.1 0.3
+Ks  0.9 0.9 0.9
+d  0.4
+Ns  3.9
+illum 2
+#
+newmtl W3
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 19_-_Default2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WOOD67.JPG
+#
+newmtl Gray2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl W4
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl GRAY3
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl aa23
+Ka  0.3 0.3 0.6
+Kd  0.3 0.3 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.9
+illum 2
+#
+newmtl aa5
+Ka  0.1 0.1 0.3
+Kd  0.1 0.1 0.3
+Ks  0.9 0.9 0.9
+d  0.4
+Ns  3.9
+illum 2
+#
+newmtl Gray3
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 13_-_Default2
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# EOF

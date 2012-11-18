@@ -1,0 +1,392 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__145 (5) to come 
+#
+newmtl Material__345
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Material__344
+Ka  0.3 0.4 0.6
+Kd  0.3 0.4 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 07_-_Default
+Ka  0.2 0.3 0.6
+Kd  0.2 0.3 0.6
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 10_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__145 done 
+#
+# Multi/Sub Material__134 (2) to come 
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 07_-_Default
+Ka  0.2 0.3 0.6
+Kd  0.2 0.3 0.6
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__134 done 
+#
+# Multi/Sub Material__90 (2) to come 
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 07_-_Default
+Ka  0.2 0.3 0.6
+Kd  0.2 0.3 0.6
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__90 done 
+#
+newmtl 07_-_Default
+Ka  0.2 0.3 0.6
+Kd  0.2 0.3 0.6
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__123 (3) to come 
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Material__403
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__123 done 
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Default
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.1
+illum 2
+#
+# Multi/Sub Material__101 (2) to come 
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__101 done 
+#
+newmtl 01_-_Default
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.1 0.3 0.3
+Kd  0.1 0.3 0.3
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl simple_metal_1_0
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__112 (3) to come 
+#
+newmtl Material__252
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 23_-_Defaugglt
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__112 done 
+#
+# Multi/Sub Material__79 (3) to come 
+#
+newmtl Material__287
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__286
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__79 done 
+#
+newmtl 07_-_Defaultee
+Ka  0.6 0.1 0.1
+Kd  0.6 0.1 0.1
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__68 (2) to come 
+#
+newmtl 07_-_Default
+Ka  0.2 0.3 0.6
+Kd  0.2 0.3 0.6
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 23_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__68 done 
+#
+# Multi/Sub Material__57 (8) to come 
+#
+newmtl 19_-_Default
+Ka  0.5 0.9 0.9
+Kd  0.5 0.9 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 20_-_Default
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl build2
+Ka  0.0 0.2 0.3
+Kd  0.0 0.2 0.3
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl roof
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+map_Kd 33ROOF.JPG
+#
+newmtl doors
+Ka  0.1 0.1 0.3
+Kd  0.1 0.1 0.3
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl build1
+Ka  0.5 0.8 0.9
+Kd  0.5 0.8 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__57 done 
+#
+newmtl 19_-_Default
+Ka  0.5 0.9 0.9
+Kd  0.5 0.9 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__46 (2) to come 
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__46 done 
+#
+# Multi/Sub Material__35 (2) to come 
+#
+newmtl серый
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 07_-_Defaultf
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+newmtl concrete_27
+Ka  0.2 0.5 0.1
+Kd  0.2 0.5 0.1
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  10.0
+illum 2
+#
+# EOF

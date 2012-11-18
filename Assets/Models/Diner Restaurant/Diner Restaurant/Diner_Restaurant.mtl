@@ -1,0 +1,85 @@
+# 
+# 
+newmtl alumox
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.553042 0.645468 0.622457
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\alumox.tga
+map_Bump Texture\\alumox_normal.tga
+
+
+newmtl diner_door
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.698754 0.398173 0.612149
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\diner_door.tga
+map_Bump Texture\\diner_door_normal.tga
+
+
+newmtl dinersign
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.743303 0.542587 0.678409
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\dinersign.tga
+map_Bump Texture\\dinersign_normal.tga
+
+
+newmtl ks_dinermet_02
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.598967 0.745823 0.701898
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\ks_dinermet_02.tga
+map_Bump Texture\\ks_dinermet_02_normal.tga
+
+
+newmtl ks_dinermet_02_ks_dinermet_02.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.598967 0.745823 0.701898
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\ks_dinermet_02.tga
+
+
+newmtl mh_dinerdet
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.782768 0.779586 0.493883
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\mh_dinerdet.tga
+map_Bump Texture\\mh_dinerdet_normal.tga
+
+
+newmtl mh_dumbodinner
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.564631 0.488761 0.329867
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\mh_dumbodinner.tga
+map_Bump Texture\\mh_dumbodinner_normal.tga
+
+

@@ -1,0 +1,80 @@
+newmtl Material__249
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.984314 0.984314 0.984314
+Ks 0.509804 0.509804 0.509804
+Km 0.02
+map_Kd /Maps/ArchM_73_20_Grid.jpg
+
+newmtl Material__250
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.984314 0.984314 0.984314
+Ks 0.509804 0.509804 0.509804
+Km 0.02
+map_Kd /Maps/ArchM_73_20_Paint.jpg
+
+newmtl Material__252
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.976471 0.976471 0.976471
+Ks 0.466667 0.466667 0.466667
+Km 0.02
+map_Kd /Maps/ArchM_73_19_concrate.jpg
+
+newmtl Material__248
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.976471 0.976471 0.976471
+Ks 0.466667 0.466667 0.466667
+Km 0.02
+map_Kd /Maps/ArchM_73_20_Box.jpg
+
+newmtl Material__253
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.976471 0.976471 0.976471
+Ks 0.466667 0.466667 0.466667
+Km 0.02
+map_Kd /Maps/ArchM_73_20_Box.jpg
+
+newmtl Material__246
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.984314 0.984314 0.984314
+Ks 0.509804 0.509804 0.509804
+Km 0.02
+map_Kd /Maps/ArchM_73_20_Metal.jpg
+
+newmtl Material__247
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.976471 0.976471 0.976471
+Ks 0.466667 0.466667 0.466667
+Km 0.02
+map_Kd /Maps/ArchM_73_20_Box.jpg
+
+newmtl Material__251
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.984314 0.984314 0.984314
+Ks 0.509804 0.509804 0.509804
+Km 0.02
+map_Kd /Maps/ArchM_73_20_Metal.jpg
+
